@@ -5,9 +5,10 @@ date: 2023-05-18 20:55:00 +0900
 categories: [Algorithm, Basic]
 tags: [BigO]
 pin: false
+image:
+  path: /assets/img/Algorithm/20230518/시간복잡도1.png
+  alt: Big-O chart
 ---
-
-![시간복잡도1](/assets/img/Algorithm/20230518/시간복잡도1.png)
 
 # 시간복잡도의 개념
 
